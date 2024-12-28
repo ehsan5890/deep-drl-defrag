@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+optical_rl_gym.egg-info/PKG-INFO
+optical_rl_gym.egg-info/SOURCES.txt
+optical_rl_gym.egg-info/dependency_links.txt
+optical_rl_gym.egg-info/requires.txt
+optical_rl_gym.egg-info/top_level.txt
